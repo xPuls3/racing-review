@@ -110,7 +110,7 @@ Developed by 704 Games.
 
 # Dirt Rally
 
-No minimap, can't play without audio.
+No minimap, can't play without audio or visual indicators.
 
 Developed by Codemasters.
 
@@ -119,7 +119,7 @@ Developed by Codemasters.
 
 # WRC 9
 
-No minimap, can't play without audio.
+No minimap, can't play without audio or visual indicators.
 
 Developed by KT Racing.
 
@@ -128,7 +128,7 @@ Developed by KT Racing.
 
 # WRC 6
 
-No minimap, can't play without audio.
+No minimap, can't play without audio or visual indicators.
 
 Uses denuvo.
 
