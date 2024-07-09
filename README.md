@@ -73,7 +73,7 @@ Uses usernames from your friends list for AI racers.
 
 Requires an Xbox account.
 
-Game by Xbox & Playground Games.
+Developed by Xbox's Playground Games.
 
 **Steam Deck Verified**  
 **ProtonDB Silver**
@@ -93,7 +93,7 @@ Uses usernames from your friends list for AI racers.
 
 Requires an Xbox account.
 
-Developed by Xbox's Playground Games
+Developed by Xbox's Playground Games.
 
 **ProtonDB Silver**
 
