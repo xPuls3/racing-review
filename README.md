@@ -147,6 +147,8 @@ Physics and car handling is great until downforce is added.
 
 Downforce simulation is poor.
 
+**ProtonDB Gold**
+
 # Assetto Corsa Competizione
 
 Simulation car handling.
