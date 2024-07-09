@@ -143,7 +143,7 @@ Very poor performance on all machines with multiple cars.
 There is no real racing mode, mostly only freeform sandbox.
 
 Input handling is very poor until properly configured.  
-Physics and car handling is great until downforce is added.
+Physics and car handling is great until downforce is required.
 
 Downforce simulation is poor.
 
