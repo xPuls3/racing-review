@@ -99,9 +99,26 @@ Developed by Xbox's Playground Games.
 
 First launch requries desktop mode to sign-in.
 
+# Grand Turismo 4
+
+Comes with a default controller deadzone that makes fine steering difficult.  
+Use anti-deadzone to remove it, and the handling becomes great.
+
+Car handling is less detailed, but still holds up today.
+
+Developed by Sony's Polyphony.  
+Only available on PlayStation 2.
+
+# Project Cars 2
+
+Input handling on controller isn't great, even with tweaking the oversteer or understeer appears unpredictable.
+
+**Steam Deck Unsupported**  
+**ProtonDB Platinum**
+
 # Nascar Heat 5
 
-Input handling on controller isn't great, difficult to corner on oval tracks
+Input handling on controller isn't great, difficult to corner on oval tracks.
 
 Developed by 704 Games.
 
