@@ -2,9 +2,10 @@
 
 Somewhat arcade handling.
 
-Great handling for all lower class cars.
+Great handling for all lower class cars.  
 Better tires are unavailable, making higher class hard to control.
 
+Classes are determined by power to weight ratio.  
 Collisions are a major part of races.
 
 Developed by Bugbear.
