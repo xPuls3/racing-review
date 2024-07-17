@@ -13,6 +13,26 @@ Developed by Bugbear.
 **Steam Deck Verified**  
 **ProtonDB Platinum**
 
+# Project Cars 2
+
+Some cars can easily spin out or oversteer and require tuning, but it is managable with practice.
+AI racer performance is poor on wet tracks, meanwhile they seem to ignore puddles completely.
+
+**Steam Deck Unsupported**  
+**ProtonDB Platinum**
+
+Runs just fine on the deck.
+
+# Grand Turismo 4
+
+Comes with a default controller deadzone that makes fine steering difficult.  
+Use anti-deadzone to remove it, and the handling becomes great.
+
+Car handling is less detailed, but still holds up today.
+
+Developed by Sony's Polyphony.  
+Only available on PlayStation 2.
+
 # Grid Autosport
 
 Arcade handling.
@@ -99,23 +119,6 @@ Developed by Xbox's Playground Games.
 
 First launch requries desktop mode to sign-in.
 
-# Grand Turismo 4
-
-Comes with a default controller deadzone that makes fine steering difficult.  
-Use anti-deadzone to remove it, and the handling becomes great.
-
-Car handling is less detailed, but still holds up today.
-
-Developed by Sony's Polyphony.  
-Only available on PlayStation 2.
-
-# Project Cars 2
-
-Input handling on controller isn't great, even with tweaking the oversteer or understeer appears unpredictable.
-
-**Steam Deck Unsupported**  
-**ProtonDB Platinum**
-
 # Nascar Heat 5
 
 Input handling on controller isn't great, difficult to corner on oval tracks.
@@ -170,8 +173,10 @@ Downforce simulation is poor.
 
 Simulation car handling.
 
+Game is a great simulator, though in singleplayer the gameplay experience is lacking.
+
 Default controller configuration is difficult to control.  
-Racing modes lack many quality of life features for immersion.
+Racing modes lack sacrifice quality of life features for immersion.
 
 Developed by Kunos Simulazioni.
 
