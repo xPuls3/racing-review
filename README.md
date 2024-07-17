@@ -15,7 +15,7 @@ Developed by Bugbear.
 
 # Project Cars 2
 
-Some cars can easily spin out or oversteer and require tuning, but it is managable with practice.
+Some cars can easily spin out or oversteer and require tuning, but it is managable with practice.  
 AI racer performance is poor on wet tracks, meanwhile they seem to ignore puddles completely.
 
 **Steam Deck Unsupported**  
